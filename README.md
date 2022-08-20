@@ -1,1 +1,1 @@
-# database-change-management-with-schemachange
+This repository is for demonstrating automated release management for Snowflake by leveraging the GitHub Actions service from GitHub. Additionally, in order to manage the database objects/changes in Snowflake I had used the schemachange Database Change Management (DCM) tool.
